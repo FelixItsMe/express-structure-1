@@ -1,0 +1,23 @@
+{
+  "name": "express-structure-1",
+  "version": "1.0.0",
+  "description": "Express structure learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixItsMe/express-structure-1.git"
+  },
+  "author": "FelixItsMe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelixItsMe/express-structure-1/issues"
+  },
+  "homepage": "https://github.com/FelixItsMe/express-structure-1#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
